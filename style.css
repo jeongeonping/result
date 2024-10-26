@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Paperlogy';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-8ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Paperlogy';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-4Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family: 'Paperlogy';
+    font-weight: 800;
+    background-color: #f0f8ff;
+    text-align: center;
+    padding: 100px;
+}
+h1{
+    font-family: 'Paperlogy';
+    font-weight: 800;
+    font-size: 30pt;
+    background-color: #f0f8ff;
+    text-align: center;
+    padding: 50px;
+    color: #2c3e50;
+}
+form{
+    font-family: 'Paperlogy';
+    font-weight: 400;
+    font-size: 15pt;
+    background-color:#ffffff;
+    padding: 20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+    display: inline-block;
+    text-align: justify;
+}
+input[type="submit"]{
+    font-family: 'Paperlogy';
+    font-weight: 800;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 3px;
+    font-size: 15pt;
+}
+input[type="submit"]:hover {
+    background-color: #2980b9;
+}
+p{
+    font-family: 'Paperlogy';
+    font-weight: 800;
+    font-size: 20pt;
+}
+a{
+    font-family: 'Paperlogy';
+    font-weight: 400;
+    font-size: 15pt;
+}
